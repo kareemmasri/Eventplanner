@@ -106,7 +106,10 @@
   <sonar.organization>kareemmasri</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <sonar.analysis.mode>issues</sonar.analysis.mode>
-</properties>
+  <maven.compiler.source>20</maven.compiler.source>
+  <maven.compiler.target>20</maven.compiler.target>
+  <java.version>20.0.1</java.version>
+ </properties>
   
   
   
