@@ -59,7 +59,9 @@
     <version>7.15.0</version>
 </dependency>
 
-    <build>
+  </dependencies>
+
+   <build>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -72,9 +74,6 @@
         </plugin>
     </plugins>
 </build>
-
-    
-  </dependencies>
 
   <properties>
   <sonar.organization>kareemmasri</sonar.organization>
