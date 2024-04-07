@@ -59,6 +59,11 @@
     <version>7.15.0</version>
 </dependency>
 
+    <properties>
+  <sonar.organization>kareemmasri</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+    
   </dependencies>
   
   
