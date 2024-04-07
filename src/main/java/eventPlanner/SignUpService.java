@@ -208,6 +208,7 @@ public class SignUpService {
         }
     }
 
+    
 
     private void updateEvent(Scanner scanner) {
         if (currentUser == null || (!"Event Planner".equals(currentUser[1]) && !"Admin".equals(currentUser[1]))) {
